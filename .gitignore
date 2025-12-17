@@ -2,10 +2,6 @@
 /vendor
 /composer.lock
 
-# Node
-/node_modules
-/package-lock.json
-
 # Build artifact (Webpack)
 public/js
 public/css
