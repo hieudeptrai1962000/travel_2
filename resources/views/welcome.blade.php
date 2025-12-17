@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel made by Hieu
                 </div>
 
                 <div class="links">
